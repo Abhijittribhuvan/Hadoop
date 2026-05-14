@@ -1,0 +1,5 @@
+INFO User logged in
+ERROR Database failed
+WARNING Disk space low
+INFO Request completed
+ERROR Connection timeout
